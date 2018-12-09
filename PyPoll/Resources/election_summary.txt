@@ -1,0 +1,9 @@
+Election Results
+--------------------------
+Total Votes: 3521001
+--------------------------
+Winner: (2218231, 'Khan')
+Candidates Vote Totals
+--------------------------
+('Khan', 'Correy', 'Li', "O'Tooley")
+(2218231, 704200, 492940, 105630)
